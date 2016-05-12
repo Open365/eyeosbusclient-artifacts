@@ -1,6 +1,6 @@
 {
   "name": "eyeosBusClient",
-  "version": "0.0.40",
+  "version": "0.0.46",
   "authors": [
     "eyeOS"
   ],
@@ -21,5 +21,6 @@
     "jquery": "2.1.1",
     "requirejs": "2.1.14",
     "postal.js": "v0.10.1"
-  }
+  },
+  "license": "AGPL-3.0"
 }
